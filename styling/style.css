@@ -234,7 +234,6 @@ img {
   display: flex;
   justify-content: center;
   gap: 20px;
-  /* margin: 20px 0; */
   flex-wrap: wrap;
   opacity: 0;
   animation: fadeUp 1s ease 1.9s forwards;
@@ -243,11 +242,6 @@ img {
   left: 24px;
   margin: 0;
   z-index: 100;
-  /* position: fixed;
-  top: 24px;
-  left: 24px;
-  margin: 0;
-  z-index: 100; */
   flex-direction: column;
 }
 
